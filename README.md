@@ -1,5 +1,5 @@
 ### About
-Desenvolvedor Full Stack com mais de 11 anos de experiência em desenvolvimento web, entregando soluções robustas e escaláveis de ponta a ponta. Minha jornada na tecnologia combina profundidade técnica e visão estratégica, o que me permite transformar ideias em produtos digitais de alto impacto. Sempre alinhado às tendências mais recentes, sou movido pela paixão por inovação, qualidade de código e a criação de experiências incríveis para os usuários.
+Desenvolvedor Full Stack com mais de 12 anos de experiência em desenvolvimento web, entregando soluções robustas e escaláveis de ponta a ponta. Minha jornada na tecnologia combina profundidade técnica e visão estratégica, o que me permite transformar ideias em produtos digitais de alto impacto. Sempre alinhado às tendências mais recentes, sou movido pela paixão por inovação, qualidade de código e a criação de experiências incríveis para os usuários.
 
 -----
 
@@ -32,6 +32,7 @@ Back-end
 ### Devops skills:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SERVERLESS](https://img.shields.io/badge/SERVERLESS-fd5750?style=for-the-badge&logo=serverless&logoColor=white)
+![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
